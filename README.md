@@ -15,9 +15,6 @@
 - 📬 How to reach me: h00p03 - but please don't
 - ⚡ Fun fact: I already hacked u :raised_hands:
 
-<br>
-
-<hr>
 
 <br>
 
