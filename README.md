@@ -9,10 +9,10 @@
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 ### I am a Developer
-- 🔭 I’m currently working on <a href="https://exploitly.pl/">Exploitly CyberSec Group</a> :grin:
+- 🔭 I’m currently working on <a href="#">myself lOL</a> :grin:
 - 🌱 I’m currently learning CyberSec / Python / C#.
 - 💬 Ask me about anything, I won't answer :smile:
-- 📬 How to reach me: h00p03 - but please don't
+- 📬 How to reach me: LeVr0x - but please don't
 - ⚡ Fun fact: I already hacked u :raised_hands:
 
 
@@ -25,13 +25,13 @@
 <br>
 
 <p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=h00p03&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="RANKTW's Github Stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LeVr0x&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="RANKTW's Github Stats">
 </p>
 
 <br>
 
 <p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h00p03&show_icons=true&hide_border=true&theme=radical">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeVr0x&show_icons=true&hide_border=true&theme=radical">
 </p>
 
 <br>
@@ -52,6 +52,6 @@ Java, everytime, everywhere
 #### Thank You-🙏🏼
 
 
-[website]:https://exploitly.pl/
+[website]:https://LeVr0x.github.io
 
 Original ReadMe creator: https://github.com/punitkmryh
